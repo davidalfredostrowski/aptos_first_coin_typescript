@@ -44,4 +44,23 @@ https://askubuntu.com/questions/627346/how-to-set-path-in-ubuntu
 
 
 
+ubuntu@ip-172-31-35-62:~/aptos-core/ecosystem/typescript/sdk/examples/typescript$ npm install
+
+added 191 packages, and audited 192 packages in 30s
+
+65 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+ubuntu@ip-172-31-35-62:~/aptos-core/ecosystem/typescript/sdk/examples/typescript$ pnpm your_coin ~/aptos-core/aptos-move/move-examples/moon_coin
+
+> ts-test@1.0.0 your_coin /home/ubuntu/aptos-core/ecosystem/typescript/sdk/examples/typescript
+> ts-node your_coin.ts "/home/ubuntu/aptos-core/aptos-move/move-examples/moon_coin"
+
+
+=== Addresses ===
+Alice: 0x0acc1b2e5f47692d0820566590139e8fdd010eef8475b6ff15513aac22b3fbd8
+Bob: 0xd43052cb86b252bedd2d57f9cff3b0322f7b445ef502d8e2905e08aba0b3998b
+Update the module with Alice's address, compile, and press enter.
+
 
