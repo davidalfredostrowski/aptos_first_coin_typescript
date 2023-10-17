@@ -36,3 +36,12 @@ ubuntu@ip-172-31-35-62:~/aptos-core/ecosystem/typescript/sdk/examples/typescript
 sh: 1: ts-node: not found
  ELIFECYCLE  Command failed.
  WARN   Local package.json exists, but node_modules missing, did you mean to install?
+
+
+
+
+https://askubuntu.com/questions/627346/how-to-set-path-in-ubuntu
+
+
+
+
