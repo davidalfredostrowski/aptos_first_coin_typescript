@@ -79,6 +79,28 @@ BUILDING Examples
 
 
 
+Alice: 0x0acc1b2e5f47692d0820566590139e8fdd010eef8475b6ff15513aac22b3fbd8
+Bob: 0xd43052cb86b252bedd2d57f9cff3b0322f7b445ef502d8e2905e08aba0b3998b
+Update the module with Alice's address, compile, and press enter.
+Publishing MoonCoin package.
+Bob's initial MoonCoin balance: 0.
+Alice mints herself some of the new coin.
+Alice transfers the newly minted coins to Bob.
+Bob's updated MoonCoin balance: 100.
+undefined
+ubuntu@ip-172-31-35-62:~/aptos-core/ecosystem/typescript/sdk/examples/typescript$
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
