@@ -24,3 +24,15 @@
 
   WARNING: The script httpx is installed in '/home/ubuntu/.local/bin' which is not on PATH.
   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+
+
+
+
+ubuntu@ip-172-31-35-62:~/aptos-core/ecosystem/typescript/sdk/examples/typescript$ pnpm your_coin ~/aptos-core/aptos-move/move-examples/moon_coin
+
+> ts-test@1.0.0 your_coin /home/ubuntu/aptos-core/ecosystem/typescript/sdk/examples/typescript
+> ts-node your_coin.ts "/home/ubuntu/aptos-core/aptos-move/move-examples/moon_coin"
+
+sh: 1: ts-node: not found
+ ELIFECYCLE  Command failed.
+ WARN   Local package.json exists, but node_modules missing, did you mean to install?
